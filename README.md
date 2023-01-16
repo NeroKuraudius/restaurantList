@@ -7,11 +7,11 @@
 
 
 ### 需求工具：
-Node.js 18.12.1
-Express 4.16.4
-Express-handlebars 3.0.0
-Bootstrap 5.2.1
-Font-awesome 4.7.0
+Node.js 18.12.1\n
+Express 4.16.4\n
+Express-handlebars 3.0.0\n
+Bootstrap 5.2.1\n
+Font-awesome 4.7.0\n
 
 ### 使用：
 1.請先安裝node.js及npm
